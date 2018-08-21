@@ -12,5 +12,4 @@ kops create cluster \
 --state s3://mechanchi.com \
 --yes
 
-export AWS_ACCESS_KEY=AKIAJV5EQEOFTNBZROAA
-export AWS_SECRET_KEY=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
+
